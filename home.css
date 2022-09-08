@@ -157,6 +157,9 @@
     font-family: Poppins;
     background-color: rgb(100, 95, 140);
   }
+  .home-text05 {
+    font-size: 15px;
+  }
   .home-text07 {
     color: #645f8c;
     font-size: 0.7em;
@@ -164,7 +167,7 @@
     font-weight: 600;
   }
   .home-text08 {
-    color: #645f8c;
+    color: #b3ace0;
     font-size: 0.7em;
     font-style: normal;
     font-weight: 600;
@@ -182,7 +185,7 @@
     font-weight: 600;
   }
   .home-text11 {
-    color: #645f8c;
+    color: #b3ace0;
     font-size: 0.7em;
     font-style: normal;
     font-weight: 600;
@@ -200,7 +203,7 @@
     font-weight: 600;
   }
   .home-text14 {
-    color: #645f8c;
+    color: #b3ace0;
     font-size: 0.7em;
     font-style: normal;
     font-weight: 600;
@@ -218,7 +221,7 @@
     font-weight: 600;
   }
   .home-text17 {
-    color: #645f8c;
+    color: #b3ace0;
     font-size: 0.7em;
     font-style: normal;
     font-weight: 600;
@@ -236,7 +239,7 @@
     font-weight: 600;
   }
   .home-text20 {
-    color: #645f8c;
+    color: #b3ace0;
     font-size: 0.7em;
     font-style: normal;
     font-weight: 600;
@@ -254,7 +257,7 @@
     font-weight: 600;
   }
   .home-text23 {
-    color: #645f8c;
+    color: #b3ace0;
     font-size: 0.7em;
     font-style: normal;
     font-weight: 600;
@@ -272,7 +275,7 @@
     font-weight: 600;
   }
   .home-text26 {
-    color: #645f8c;
+    color: #b3ace0;
     font-size: 0.7em;
     font-style: normal;
     font-weight: 600;
@@ -290,7 +293,7 @@
     font-weight: 600;
   }
   .home-text29 {
-    color: #645f8c;
+    color: #b3ace0;
     font-size: 0.7em;
     font-style: normal;
     font-weight: 600;
@@ -308,7 +311,7 @@
     font-weight: 600;
   }
   .home-text32 {
-    color: #645f8c;
+    color: #b3ace0;
     font-size: 0.7em;
     font-style: normal;
     font-weight: 600;
@@ -326,7 +329,7 @@
     font-weight: 600;
   }
   .home-text35 {
-    color: #645f8c;
+    color: #b3ace0;
     font-size: 0.7em;
     font-style: normal;
     font-weight: 600;
@@ -344,7 +347,7 @@
     font-weight: 600;
   }
   .home-text38 {
-    color: #645f8c;
+    color: #b3ace0;
     font-size: 0.7em;
     font-style: normal;
     font-weight: 600;
@@ -362,7 +365,7 @@
     font-weight: 600;
   }
   .home-text41 {
-    color: #645f8c;
+    color: #b3ace0;
     font-size: 0.7em;
     font-style: normal;
     font-weight: 600;
@@ -380,7 +383,7 @@
     font-weight: 600;
   }
   .home-text44 {
-    color: #645f8c;
+    color: #b3ace0;
     font-size: 0.7em;
     font-style: normal;
     font-weight: 600;
@@ -398,7 +401,7 @@
     font-weight: 600;
   }
   .home-text47 {
-    color: #645f8c;
+    color: #b3ace0;
     font-size: 0.7em;
     font-style: normal;
     font-weight: 600;
@@ -416,7 +419,7 @@
     font-weight: 600;
   }
   .home-text50 {
-    color: #645f8c;
+    color: #b3ace0;
     font-size: 0.7em;
     font-style: normal;
     font-weight: 600;
@@ -434,7 +437,7 @@
     font-weight: 600;
   }
   .home-text53 {
-    color: #645f8c;
+    color: #b3ace0;
     font-size: 0.7em;
     font-style: normal;
     font-weight: 600;
@@ -452,7 +455,7 @@
     font-weight: 600;
   }
   .home-text56 {
-    color: #645f8c;
+    color: #b3ace0;
     font-size: 0.7em;
     font-style: normal;
     font-weight: 600;
@@ -470,7 +473,7 @@
     font-weight: 600;
   }
   .home-text59 {
-    color: #645f8c;
+    color: #b3ace0;
     font-size: 0.7em;
     font-style: normal;
     font-weight: 600;
@@ -486,6 +489,662 @@
   .home-image {
     width: 100ˆ%;
     height: 100%;
+  }
+  .home-text05 {
+    font-size: 15px;
+  }
+  .home-text07 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text08 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text09 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text10 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text11 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text12 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text13 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text14 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text15 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text16 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text17 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text18 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text19 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text20 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text21 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text22 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text23 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text24 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text25 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text26 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text27 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text28 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text29 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text30 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text31 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text32 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text33 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text34 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text35 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text36 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text37 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text38 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text39 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text40 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text41 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text42 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text43 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text44 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text45 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text46 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text47 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text48 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text49 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text50 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text51 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text52 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text53 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text54 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text55 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text56 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text57 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text58 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text59 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text60 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+}
+@media(max-width: 767px) {
+  .home-text05 {
+    font-size: 15px;
+  }
+  .home-text07 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text08 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text09 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text10 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text11 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text12 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text13 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text14 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text15 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text16 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text17 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text18 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text19 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text20 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text21 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text22 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text23 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text24 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text25 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text26 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text27 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text28 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text29 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text30 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text31 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text32 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text33 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text34 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text35 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text36 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text37 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text38 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text39 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text40 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text41 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text42 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text43 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text44 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text45 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text46 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text47 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text48 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text49 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text50 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text51 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text52 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text53 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text54 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text55 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text56 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text57 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text58 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text59 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text60 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
   }
 }
 @media(max-width: 479px) {
